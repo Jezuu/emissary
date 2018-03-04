@@ -1,5 +1,6 @@
 {
     "name": "jezuu/emissary",
+    "version": "1.0.0",
 	"description": "Allows you to easily use Laravel Service Providers with Slim 3's DI container",
 	"keywords": ["slim", "laravel", "service provider", "dependency injection"],
 	"homepage": "https://github.com/Jezuu/emissary",
