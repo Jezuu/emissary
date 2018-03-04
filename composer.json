@@ -15,6 +15,11 @@
         "slim/slim": ">=3.0",
         "illuminate/support": ">=5.1"
     },
+
+    "repositories": [
+        {"type": "composer", "url": "https://repo.packagist.com/jezuu/"},
+        {"packagist.org": false}
+    ],
     "autoload": {
         "psr-0" : {
             "Jezuu\\Emissary\\" : "src/"
