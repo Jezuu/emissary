@@ -5,6 +5,7 @@
 	"keywords": ["slim", "laravel", "service provider", "dependency injection"],
 	"homepage": "https://github.com/Jezuu/emissary",
     "license": "MIT",
+    "type": "package",
 	"authors": [
         {
             "name": "Jezuu",
